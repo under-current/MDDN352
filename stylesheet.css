@@ -67,6 +67,7 @@ font-size: 100%;
 	height:100%;
 	float:left;
 	/*overflow: scroll;*/
+	margin-left: 50px;
 }
 .text-left, p {
 	font-family: 'Josefin Sans', sans-serif;
